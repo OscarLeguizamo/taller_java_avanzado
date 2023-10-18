@@ -1,0 +1,13 @@
+nombre proyecto: java_avanzado_oleguiza
+
+{
+    "nombre"    : "perro",
+    "n_patas"   : 4,
+    "genero"    : "M",
+    "especie"   : "mamifero",
+    "habitat"   : "terrestre",
+    "domestico" : true
+}
+
+
+docker run -p 8080:8080 oleguizaimg
